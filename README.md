@@ -8,6 +8,7 @@ Focused on developing **robotics systems** and **embedded devices** for intellig
 - **Indian Institute of Technology Delhi (IITD)**  
   Bachelor of Technology (B.Tech)  
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/weihao1115/weihao1115/output/github-contribution-grid-snake.svg)
+
 Connect with me
 [LinkedIn Profile](https://www.linkedin.com/in/abspateliitd/)
 
