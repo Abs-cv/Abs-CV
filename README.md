@@ -1,4 +1,4 @@
-## Hi there 👋 This is Abs
+## Hello there! 👋 I’m Abs
 Researcher working on **multimodal large language models** and **scene understanding**, integrating computer vision and language models to solve real-world problems.  
 Focused on developing **robotics systems** and **embedded devices** for intelligent, practical applications.
 
