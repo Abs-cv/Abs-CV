@@ -8,7 +8,7 @@ Focused on developing **robotics systems** and **embedded devices** for intellig
 - **Indian Institute of Technology Delhi (IITD)**  
   Bachelor of Technology (B.Tech)
 
-- 🛠️ Developed **FSPNet**: A Few-Shot Peduncle Detection model using Vision Transformers, submitted to ICRA 2025.
+🛠️ Developed **FSPNet**: A Few-Shot Peduncle Detection model using Vision Transformers, submitted to ICRA 2025.
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/weihao1115/weihao1115/output/github-contribution-grid-snake.svg)
 
