@@ -4,7 +4,7 @@ Focused on developing **robotics systems** and **embedded devices** for intellig
 
 ### Education  
 - **Queen Mary University of London (QMUL)**  
- M.S. in  Robotics (*Distinction*)  
+ M.S. in  Robotics
 - **Indian Institute of Technology Delhi (IITD)**  
   Bachelor of Technology (B.Tech)
 
